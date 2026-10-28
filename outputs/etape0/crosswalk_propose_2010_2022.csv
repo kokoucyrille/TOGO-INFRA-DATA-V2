@@ -1,0 +1,43 @@
+pref_2022,origine_2010,niveau_comparaison,type_correspondance,pop_2010,pop_2022,tcam_pct,flag_propose,motif
+AMOU,AMOU,préfecture,exacte,105091.0,114172,0.6930525853960257,HIGH,96% de la pop. 2010 en cantons retrouvés à l'identique
+BINAH,BINAH,préfecture,exacte,70054.0,84199,1.5444440723208386,HIGH,100% de la pop. 2010 en cantons retrouvés à l'identique
+BLITTA,BLITTA,préfecture,exacte,137658.0,163272,1.432202243303582,HIGH,97% de la pop. 2010 en cantons retrouvés à l'identique
+CINKASSE,CINKASSE,préfecture,exacte,78592.0,128959,4.213210717062155,HIGH,100% de la pop. 2010 en cantons retrouvés à l'identique
+DANKPEN,DANKPEN,préfecture,exacte,130723.0,185662,2.966887465265078,HIGH,92% de la pop. 2010 en cantons retrouvés à l'identique
+DOUFELGOU,DOUFELGOU,préfecture,exacte,78635.0,84767,0.6277070683194719,HIGH,100% de la pop. 2010 en cantons retrouvés à l'identique
+EST-MONO,EST-MONO,préfecture,exacte,121789.0,164460,2.5347362093692816,HIGH,100% de la pop. 2010 en cantons retrouvés à l'identique
+KERAN,KERAN,préfecture,exacte,94061.0,128687,2.6464081828417862,HIGH,100% de la pop. 2010 en cantons retrouvés à l'identique
+KOZAH,KOZAH,préfecture,exacte,225259.0,283738,1.9419521592569877,HIGH,94% de la pop. 2010 en cantons retrouvés à l'identique
+KPELE,KPELE,préfecture,exacte,75547.0,80939,0.5761601664659333,HIGH,96% de la pop. 2010 en cantons retrouvés à l'identique
+KPENDJAL,KPENDJAL (2010) — cantons Kpendjal,préfecture,scission,61578.0,88365,3.0555119790621976,HIGH,"Reconstitué par cantons (tous les cantons appariés, sans alias)"
+MOYEN-MONO,MOYEN-MONO,préfecture,exacte,77286.0,90505,1.3244632562240177,HIGH,100% de la pop. 2010 en cantons retrouvés à l'identique
+OGOU,OGOU,préfecture,exacte,196470.0,253467,2.145388592037234,HIGH,100% de la pop. 2010 en cantons retrouvés à l'identique
+OTI,OTI (2010) — cantons Oti,préfecture,scission,93269.0,124848,2.45984371428305,HIGH,"Reconstitué par cantons (tous les cantons appariés, sans alias)"
+OTI-SUD,OTI (2010) — cantons Oti Sud,préfecture,scission,97274.0,150376,3.696750219621925,HIGH,"Reconstitué par cantons (tous les cantons appariés, sans alias)"
+SOTOUBOUA,SOTOUBOUA,préfecture,exacte,121014.0,138864,1.153171641781947,HIGH,94% de la pop. 2010 en cantons retrouvés à l'identique
+TANDJOARE,TANDJOARE,préfecture,exacte,117969.0,138867,1.3684010831477078,HIGH,95% de la pop. 2010 en cantons retrouvés à l'identique
+TCHAOUDJO,TCHAOUDJO,préfecture,exacte,190114.0,240360,1.9735036693173225,HIGH,95% de la pop. 2010 en cantons retrouvés à l'identique
+TONE,TONE,préfecture,exacte,286029.0,388775,2.5905493067016616,HIGH,94% de la pop. 2010 en cantons retrouvés à l'identique
+YOTO,YOTO,préfecture,exacte,165596.0,174851,0.4542209335309799,HIGH,100% de la pop. 2010 en cantons retrouvés à l'identique
+GRAND LOMÉ = Golfe + Agoé-Nyivé,LOME + GOLFE (2010),union,fusion/scission (union),1571508.0,2188376,2.7977901999567623,HIGH,"Union des 2 préfectures du DAGL vs Lomé + Golfe 2010 ; réserve : Adéti Kopé (~20 k hab., Zio 2010) est passé à Agoé-Nyivé (< 1,3 % de la base)"
+KPENDJAL + KPENDJAL-OUEST,KPENDJAL (2010),union,scission (union),155091.0,211695,2.626692785118512,HIGH,Union exacte des deux préfectures issues de la scission
+OTI + OTI-SUD,OTI (2010),union,scission (union),190543.0,275224,3.1116592094411866,HIGH,Union exacte des deux préfectures issues de la scission
+AGOU,AGOU,préfecture,exacte,84890.0,85793,0.08821486422905256,MEDIUM,59% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+AKEBOU,AKEBOU,préfecture,exacte,62245.0,73830,1.4325553027249915,MEDIUM,80% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+ANIE,ANIE,préfecture,exacte,124928.0,180158,3.0978195601082836,MEDIUM,87% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+ASSOLI,ASSOLI,préfecture,exacte,51491.0,66394,2.1409263549347246,MEDIUM,89% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+AVE,AVE,préfecture,exacte,93812.0,111214,1.428130837926167,MEDIUM,60% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+BAS-MONO,BAS-MONO,préfecture,exacte,88846.0,94860,0.5473054954565626,MEDIUM,73% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+BASSAR,BASSAR,préfecture,exacte,119717.0,152065,2.013141075163194,MEDIUM,89% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+DANYI,DANYI,préfecture,exacte,38742.0,40240,0.3166439522017672,MEDIUM,46% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+HAHO,HAHO,préfecture,exacte,248160.0,305096,1.736172451047624,MEDIUM,88% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+KLOTO,KLOTO,préfecture,exacte,139043.0,145986,0.4068879578532414,MEDIUM,81% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+KPENDJAL-OUEST,KPENDJAL (2010) — cantons Kpendjal Ouest,préfecture,scission,93513.0,123330,2.333162354456375,MEDIUM,Reconstitué par cantons avec alias PAPRI/KPENDJAGA→Kpendjal-Ouest (à valider)
+LACS,LACS,préfecture,exacte,172148.0,241247,2.8521390591427886,MEDIUM,89% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+MO,MO,préfecture,exacte,37411.0,52448,2.8554877287823466,MEDIUM,71% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+TCHAMBA,TCHAMBA,préfecture,exacte,131674.0,200585,3.569815359211592,MEDIUM,85% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+VO,VO,préfecture,exacte,210075.0,224411,0.5516374656742373,MEDIUM,87% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+WAWA,WAWA,préfecture,exacte,100974.0,101300,0.026864885427890783,MEDIUM,80% de la pop. 2010 en cantons retrouvés à l'identique (libellés hétérogènes)
+ZIO,ZIO,préfecture,exacte,297970.0,500032,4.408399427070342,MEDIUM,"93% de la pop. 2010 en cantons retrouvés à l'identique ; canton ADETI KOPE (20 238 hab., Zio 2010) retrouvé sous Agoé-Nyivé 2022 → périmètre modifié"
+AGOE-NYIVE,GOLFE (2010) — localités AGOENYIVE =/VAKPOSSITO =,préfecture,reconstitution,,882695,,LOW,"Reconstitution par préfixes = 285 404 hab. → TCAM implicite 9.9 %/an, implausible : périmètres non équivalents"
+GOLFE,LOME + GOLFE (2010),préfecture,fusion/scission,,1305681,,LOW,"Pris seul, Golfe 2022 n'a pas d'équivalent 2010 : utiliser le Grand Lomé fusionné"

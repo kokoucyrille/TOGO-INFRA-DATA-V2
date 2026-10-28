@@ -1,0 +1,7 @@
+code,libelle,formule,sens,etiquette
+c1_deficit_acces,Déficit d'accès,100 − taux d'accès à l'électricité 2021 (plafonné à 100),"plus le taux est bas, plus la priorité est forte",CALCUL
+c2_pop_sans_acces,Population sans accès,population 2022 × (1 − taux 2021),"plus il y a de personnes sans accès, plus la priorité est forte",PROXY
+c3_croissance,Croissance démographique,"TCAM 2010–2022 (si comparabilité HIGH ou MEDIUM, sinon valeur neutre)","plus la croissance est rapide, plus la priorité est forte",CALCUL
+c4_stagnation_acces,Stagnation de l'accès,"− (taux 2021 − taux 2018), en points (si la tendance est valide, sinon valeur neutre)","moins l'accès progresse, plus la priorité est forte",CALCUL
+c5_deficit_equipement,Déficit d'équipement,− agences CEET + TdE ouvertes pour 100 000 habitants,"moins il y a d'agences par habitant, plus la priorité est forte",CALCUL
+c6_absence_service,Absence de service,moyenne des parts de population vivant sans agence CEET ouverte et sans agence TdE ouverte,"plus la population est privée d'agence, plus la priorité est forte",CALCUL

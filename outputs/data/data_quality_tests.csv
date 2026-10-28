@@ -1,0 +1,31 @@
+n,test,resultat,statut,commentaire
+1,Somme des 6 régions = total national (2022),8 095 498 vs 8 095 498,PASS,
+2,Somme des 6 blocs = total national (2010),6 191 155 vs 6 191 155,PASS,Lomé est un bloc distinct de la Maritime en 2010
+3,39 préfectures retrouvées (2022),39,PASS,
+4,117 communes retrouvées (2022),116 lignes → 117 communes,WARNING,"Corrections documentées (BINAH2, AMOU 2→3, EST-MONO 1→3, TOTOAL AVE) ; `DANYI 1+DANYI 2` = 1 ligne pour 2 communes, non séparable"
+5,36 préfectures + Lomé retrouvées (2010),36 préfectures + 5 arrondissements de Lomé,PASS,
+6,"Parent = somme des enfants (2022 : région←préf., préf.←communes, commune←cantons/quartiers)",écarts : 0 / 0 / 0,PASS,Vérifié sur 6 + 39 + 116 nœuds
+7,Parent = somme des enfants (2010),lignes non reconstituées : 0 ; écarts région←préf. : 0,PASS,
+8,Somme de toutes les feuilles = total national,8 095 498 vs 8 095 498,PASS,Pas de double comptage (6 communes à canton unique)
+9,Clés hiérarchiques uniques (2022 ; 2010),True ; True,PASS,Format région|préfecture|commune|canton
+10,"Homonymes (même libellé, plusieurs lignes)",2022 : 13 libellés ; 2010 : 7 libellés,WARNING,Neutralisés par la clé de chemin ; jointure sur nom seul interdite
+11,Taux d'accès > 100 %,"2 : [['AGOENYIVE', 2019, 106.52], ['ZIO', 2021, 106.84]]",WARNING,"`taux_brut` conservé, `taux_plafonne` pour l'affichage"
+12,Taux négatifs ; années hors 2018–2021,0 ; 0,PASS,
+13,Unités exclues des tendances 2018→2021 (`valide_pour_tendance` faux),"4 : AGOENYIVE, BLITTA, YOTO, ZIO",WARNING,"Sauts ≥ 15 pp, taux > 100 % ou valeur manquante ; c4 neutre pour ces unités"
+14,Doublon LOME ≡ LOME COMMUNE + GOLFE,7 lignes identiques écartées,PASS,Une seule unité conservée
+15,Couverture électricité : 33 unités ↔ 39 préfectures,"33 unités, 39 préfectures, population 8 095 498",PASS,Sans trou ni chevauchement ; 12 préfectures dans 6 groupes
+16,Cohérence taux régionaux (2021) vs moyenne pondérée des unités,SAVANES +0.9 pp; KARA -0.2 pp; CENTRALE +1.3 pp; PLATEAUX +0.5 pp; MARITIME +11.9 pp,WARNING,"Écart max MARITIME : la source pondère par ses propres dénominateurs (abonnés ÷ taux), non par la population ; la « Région Maritime » publiée exclut Lomé (voir Réconciliation) → `population sans accès` = PROXY"
+17,Jointure agences ↔ référentiel : préfectures,100% (93/93),PASS,Non appariées : aucune
+18,Jointure agences ↔ référentiel : communes,100% (93/93),PASS,Non appariées : aucune ; Danyi 1/2 → nœud fusionné
+19,Jointure agences ↔ référentiel : cantons (indicatif),72% (67/93),WARNING,Libellés de cantons hétérogènes : le canton n'est pas une clé de jointure ; préfecture et commune suffisent
+20,Coordonnées dans la boîte englobante du Togo ; doublons,0 hors boîte ; 0 doublons,PASS,
+21,Modalités de statut et de catégorie reconnues,statuts inconnus : 0,PASS,
+22,Année de création aberrante (1076) ; années futures,1 ligne(s) 1076 ; 0 futures,WARNING,"Agence CEET Kara : conservée en brut, `date_creation_valide` vide"
+23,Agences ouvertes accueillant le public ; sites Admin/Technique,71 ouvertes ; 4 Admin/Technique,PASS,Admin/Technique exclus du décompte « accueil du public »
+24,État civil : Hommes + Femmes = Total,0 écarts sur 51 séries×années,PASS,
+25,État civil : valeurs aberrantes (écartées des tendances),"9 séries×années : jugements_suppletifs 2017, jugements_transcrits 2017, mort_nes_fs 2015, mort_nes_hors_fs 2015, naissances_enreg_total 2016, naissances_enreg_total 2018, naissances_enreg_total 2019, naissances_vivantes_fs 2015, scolarises_sans_acte 2015",WARNING,+ 3 ruptures de série signalées mais conservées
+26,État civil : un libellé brut portant 2 séries (A / B),séries séparées ; B hors analyse,WARNING,"« Enfants scolarisés sans acte » : A ≈ 313 k–411 k, B ≈ 0–3 k"
+27,État civil : détail par sexe absent du fichier,15 séries×années,WARNING,Surtout 2014 et 2017 ; non imputé
+28,"État civil : aucun territoire, aucun dénominateur",national uniquement,PASS,"Pas de taux d'enregistrement, pas de territorialisation"
+29,Identité : TOTAL = somme des composantes,0 écarts sur 8 années,PASS,
+30,Identité : lacunes de la source,"2021 : cni, cartes_pro, total",WARNING,"Lignes vides explicites, affichées dans l'app, non imputées"

@@ -1,0 +1,5 @@
+scenario,c1_deficit_acces,c2_pop_sans_acces,c3_croissance,c4_stagnation_acces,c5_deficit_equipement,c6_absence_service,total
+A · Accès,35,15,10,25,8,7,100
+B · Population,15,35,25,10,8,7,100
+C · Équilibre,20,20,15,15,15,15,100
+D · Équipement,10,15,10,5,30,30,100

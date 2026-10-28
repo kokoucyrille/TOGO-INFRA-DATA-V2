@@ -1,0 +1,23 @@
+{
+  "population_totale": 8095498,
+  "part_grand_lome_pct": 27.032012113399322,
+  "part_top10_communes_pct": 28.712007587426985,
+  "commune_plus_peuplee": "Golfe 1",
+  "pop_commune_plus_peuplee": 351550,
+  "commune_moins_peuplee": "Assoli 2",
+  "pop_commune_moins_peuplee": 9933,
+  "rapport_max_min_communes": 35.39212725259237,
+  "prefecture_plus_peuplee": "Golfe",
+  "pop_prefecture_plus_peuplee": 1305681,
+  "prefecture_moins_peuplee": "Danyi",
+  "pop_prefecture_moins_peuplee": 40240,
+  "mediane_commune": 52302.5,
+  "gini_communes": 0.3968647290987726,
+  "gini_prefectures": 0.42807448072547283,
+  "nb_cantons": 375,
+  "nb_quartiers": 222,
+  "seuil_petit_canton": 5000,
+  "part_petits_cantons_pct": 18.133333333333333,
+  "n_petits_cantons": 68,
+  "part_pop_petits_cantons_pct": 3.7850581044373213
+}

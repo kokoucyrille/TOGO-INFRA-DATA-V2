@@ -1,0 +1,6 @@
+# Dépendances d'exécution du tableau de bord (versions testées : Python 3.12.3)
+streamlit==1.66.0
+pandas==3.0.2
+numpy==2.4.4
+plotly==7.1.0
+pyarrow==26.0.0

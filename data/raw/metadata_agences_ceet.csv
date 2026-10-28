@@ -1,0 +1,205 @@
+No.,Nom du champ,Question,Description,Type du champ
+1,region_nom_bdd,,xsd:string,string
+2,prefecture_nom_bdd,,xsd:string,string
+3,commune_nom_bdd,,xsd:string,string
+4,canton_nom_bdd,,xsd:string,string
+5,id,,xsd:int,int
+6,canton_id_bdd,ID du canton,xsd:string,string
+7,nom_localite,Nom de la localité,xsd:string,string
+8,etab_id_collecte,ID textuel de l'établissement,xsd:string,string
+9,etab_nom,Nom de l'établissement,xsd:string,string
+10,etab_adresse,Adresse de l'établissement,xsd:string,string
+11,etab_jour,Journées d'ouverture,xsd:string,string
+12,etab_heure,Horaires d'ouverture,xsd:string,string
+13,etab_creation_date,Année de création de l'établissement,xsd:string,string
+14,interlocuteur_presence,Y a-t-il un interlocuteur?,xsd:string,string
+15,interlocuteur_responsable,L'interlocuteur est il le responsable de l'établissement ?,xsd:string,string
+16,interlocuteur_fonction,"Si non, quelle est votre fonction ?",xsd:string,string
+17,interlocuteur_nom_prenom,"Si non, NOM Prenom",xsd:string,string
+18,interlocuteur_genre,"Si non, genre de l'interlocuteur",xsd:string,string
+19,interlocuteur_tel,"Si non, numéro de téléphone",xsd:string,string
+20,responsable_nom_prenom,NOM et prénom du responsable,xsd:string,string
+21,responsable_genre,Genre du responsable,xsd:string,string
+22,responsable_fonction,Fonction du responsable,xsd:string,string
+23,responsable_tel,Téléphone responsable,xsd:string,string
+24,responsable_mail,Mail du responsable,xsd:string,string
+25,responsable_annee,Année de la prise de fonction en tant que responsable,xsd:string,string
+26,responsabl_tech,Y a-t-il un responsable technique?,xsd:string,string
+27,responsabl_tech_nom,"Si oui, NOM & Prénom du responsable technique",xsd:string,string
+28,responsabl_tech_contact,"Si oui, contact du responsable technique",xsd:string,string
+29,responsabl_comm,Y a-t-il un responsable commercial?,xsd:string,string
+30,responsabl_comm_nom,"Si oui, NOM & Prénom du responsable commercial",xsd:string,string
+31,responsabl_comm_contact,"Si oui, contact du responsable commercial",xsd:string,string
+32,responsabl_mobile_money,Y a-t-il un responsable Mobile Money / banque?,xsd:string,string
+33,responsabl_mobile_money_nom,"Si oui, NOM & Prénom du responsable mobile money",xsd:string,string
+34,responsabl_mobile_money_contact,"Si oui, contact du responsable mobile money",xsd:string,string
+35,activite_statut,Statut de l'établissement,xsd:string,string
+36,activite_couverture_zone,Zone couverte par l'agence,xsd:string,string
+37,activite_categorie,Catégorie de l'établissement,xsd:string,string
+38,activite_categorie_autre,Autre catégorie de l'établissement,xsd:string,string
+39,nbr_client_mobile,"Si télécom, nombre de clients Mobile",xsd:int,int
+40,nbr_client_mobile_pub,"Si télécom, nombre de clients Mobile Public",xsd:int,int
+41,nbr_client_mobile_prive,"Si télécom, nombre de clients Mobile Privé",xsd:int,int
+42,nbr_client_mobile_particulier,"Si télécom, nombre de clients Mobile Particulier",xsd:int,int
+43,nbr_client_cuivre_adsl,"Si télécom, nombre de clients Cuivre/ADSL",xsd:int,int
+44,nbr_client_cuivre_adsl_pub,"Si télécom, nombre de clients Cuivre/ADSL Public",xsd:int,int
+45,nbr_client_cuivre_adsl_prive,"Si télécom, nombre de clients Cuivre/ADSL Privé",xsd:int,int
+46,nbr_client_cuivre_adsl_particulier,"Si télécom, nombre de clients Cuivre/ADSL Particulier",xsd:int,int
+47,nbr_client_antenne_radio,"Si télécom, nombre de clients Antenne Radio",xsd:int,int
+48,nbr_client_antenne_radio_pub,"Si télécom, nombre de clients Antenne Radio Public",xsd:int,int
+49,nbr_client_antenne_radio_prive,"Si télécom, nombre de clients Antenne Radio Privé",xsd:int,int
+50,nbr_client_antenne_radio_particulier,"Si télécom, nombre de clients Antenne Radio Particulier",xsd:int,int
+51,nbr_client_fibre,"Si télécom, nombre de clients Fibre",xsd:int,int
+52,nbr_client_fibre_public,"Si télécom, nombre de clients Fibre Public",xsd:int,int
+53,nbr_client_fibre_prive,"Si télécom, nombre de clients Fibre Privé",xsd:int,int
+54,nbr_client_fibre_particulier,"Si télécom, nombre de clients Fibre Particulier",xsd:int,int
+55,nbr_client_mobile_money,"Si télécom, nombre de clients Mobile Money",xsd:int,int
+56,nbr_client_mobile_money_pub,"Si télécom, nombre de clients Mobile Money Public",xsd:int,int
+57,nbr_client_mobile_money_prive,"Si télécom, nombre de clients Mobile Money Privé",xsd:int,int
+58,nbr_client_mobile_money_particulier,"Si télécom, nombre de clients Mobile Money Particulier",xsd:int,int
+59,nbr_agent_mobilile_money,"Si télécom, nombre d'agents Mobile Money",xsd:int,int
+60,nbr_agent_credit_tel,"Si télécom, nombre d'agents crédit téléphonique",xsd:int,int
+61,nbr_tour_zone_couverture,"Si télécom, combien de tours dans la zone couverte",xsd:int,int
+62,nbr_tour_zone_couverture_fibre,"Si télécom, combien de ces tours sont connectées à la fibre optique",xsd:int,int
+63,telecom_registre_carte_infra,,xsd:string,string
+64,registre_carte_infra_obtention,"Si oui, peut-on obtenir le registre?",xsd:string,string
+65,poste_reception_lettre,"Si La Poste, service dépot/réception de lettres ?",xsd:string,string
+66,poste_reception_colis,"Si La Poste, service dépot/réception de colis ?",xsd:string,string
+67,poste_reception_bp,"Si La Poste, service dépot/réception de boite postale?",xsd:string,string
+68,nbr_bp,"Si oui, nombre total de boites postales",xsd:int,int
+69,nbr_bp_utlilisee,"Si oui, nombre de boites postales utilisées",xsd:int,int
+70,nbr_client_pub,"Si oui, nombre de clients Secteur Public",xsd:int,int
+71,nbr_client_prive,"Si oui, nombre de clients Secteur Privé",xsd:int,int
+72,nbr_client_particulier,"Si oui, nombre de clients particulier",xsd:int,int
+73,location_machine_affran,"Si La Poste, location de machines d'affranchissement?",xsd:string,string
+74,poste_banque,"Si La Poste, service Banque Postale/CCP?",xsd:string,string
+75,poste_nbr_client_banque_pub,"Si oui, nombre de clients Secteur Public",xsd:int,int
+76,poste_nbr_client_banque_prive,"Si oui, nombre de clients Secteur Privé",xsd:int,int
+77,poste_nbr_client_banque_particulier,"Si oui, nombre de clients Particulier",xsd:int,int
+78,poste_banque_trans_togo,"Si La Poste, transferts de fonds au Togo?",xsd:string,string
+79,poste_banque_trans_togo_details,"Si oui, le(s)quel(s)?",xsd:string,string
+80,poste_banque_trans_togo_autre,Autre transferts de fonds au Togo,xsd:string,string
+81,poste_banque_trans_inter,"Si La Poste, transfert de fonds international?",xsd:string,string
+82,poste_banque_trans_inter_details,"Si oui, le(s)quel(s)?",xsd:string,string
+83,poste_banque_trans_inter_autre,Autre transferts de fonds international,xsd:string,string
+84,poste_banque_courrier,"Si La Poste, La poste est elle un arrêt de bus ""Le Courrier""",xsd:string,string
+85,tde_nbr_branchements_pub,"Si TdE, nombre de branchements Secteur Public",xsd:int,int
+86,tde_nbr_branchements_prive,"Si TdE, nombre de branchements Secteur Privé",xsd:int,int
+87,tde_nbr_branchements_particulier,"Si TdE, nombre de branchements Particulier",xsd:int,int
+88,tde_nbr_branchements_particulier_t1,"Si TdE, nombre de branchements Particulier T1",xsd:int,int
+89,tde_nbr_branchements_particulier_t2,"Si TdE, nombre de branchements Particulier T2",xsd:int,int
+90,tde_nbr_branchements_particulier_t3,"Si TdE, nombre de branchements Particulier T3",xsd:int,int
+91,tde_nbr_forages_particulier,"Si TdE, nombre de forages particuliers",xsd:int,int
+92,tde_nbr_bornes_fontaines,"Si TdE, nombre de bornes fontaines",xsd:int,int
+93,tde_nbr_station_epu,"Si TdE, nombre de stations d'épuration",xsd:int,int
+94,tde_registre_carte_infra,Y a-t-il un registre et/ou une carte de vos branchements et infrastructures?,xsd:string,string
+95,tde_registre_carte_infra_obtention,"Si oui, peut on obtenir le registre?",xsd:string,string
+96,elec_nbr_branchements_prive,"Si CEET, nombre de branchements Total Secteur Privé",xsd:int,int
+97,elec_nbr_branchements_pub,"Si CEET, nombre de branchements Total Secteur Public",xsd:int,int
+98,elec_nbr_branchements_particulier,"Si CEET, nombre de branchements Total Particuliers",xsd:int,int
+99,elec_nbr_branchements_mt,"Si CEET, nombre de branchements MT",xsd:int,int
+100,elec_nbr_branchements_mt_prive,"Si CEET, nombre de branchements MT Secteur Privé",xsd:int,int
+101,elec_nbr_branchements_mt_pub,"Si CEET, nombre de branchements MT Secteur Public",xsd:int,int
+102,elec_nbr_branchements_mt_c1,"Si CEET, nombre de branchements MT C1",xsd:int,int
+103,elec_nbr_branchements_mt_c2,"Si CEET, nombre de branchements MT C2",xsd:int,int
+104,elec_nbr_branchements_mt_c3,"Si CEET, nombre de branchements MT C3",xsd:int,int
+105,elec_nbr_bt_pp,"Si CEET, nombre de BT Postpaid",xsd:int,int
+106,elec_nbr_bt_pp_domestique,"Si CEET, nombre de BT Postpaid Domestique",xsd:int,int
+107,elec_nbr_bt_pp_domestique_non,"Si CEET, nombre de BT Postpaid Non Domestique",xsd:int,int
+108,elec_nbr_bt_prepaid,"Si CEET, nombre de BT Prepaid",xsd:int,int
+109,elec_nbr_bt_prepaid_domestique,"Si CEET, nombre de BT Prepaid Domestique",xsd:int,int
+110,elec_nbr_bt_prepaid_domestique_non,"Si CEET, nombre de BT Prepaid Non Domestique",xsd:int,int
+111,elec_nbr_bt_domestique,"Si CEET, nombre de BT Domestique",xsd:int,int
+112,elec_nbr_bt_domestique_t1,"Si CEET, nombre de BT Domestique T1",xsd:int,int
+113,elec_nbr_bt_domestique_t2,"Si CEET, nombre de BT Domestique T2",xsd:int,int
+114,elec_nbr_bt_domestique_t3,"Si CEET, nombre de BT Domestique T3",xsd:int,int
+115,elec_nbr_bt_domestique_non,"Si CEET, nombre de BT Non Domestique",xsd:int,int
+116,elec_nbr_bt_domestique_non_t1,"Si CEET, nombre de BT Non Domestique T1",xsd:int,int
+117,elec_nbr_bt_domestique_non_t2,"Si CEET, nombre de BT Non Domestique T2",xsd:int,int
+118,elec_nbr_bt_domestique_non_t3,"Si CEET, nombre de BT Non Domestique T3",xsd:int,int
+119,elec_nbr_lampadaire,"Si CEET, nombre de Lampadaires",xsd:int,int
+120,elec_nbr_transfo,"Si CEET, nombre de Transformateurs BT/MT",xsd:int,int
+121,elec_nbr_mini_reseau,"Si CEET, nombre de Mini-réseaux",xsd:int,int
+122,elec_nbr_centrales_solaire,"Si CEET, nombre de Centrales solaires",xsd:int,int
+123,elec_nbr_centrales_thermique,"Si CEET, nombre de Centrales thermiques",xsd:int,int
+124,elec_nbr_groupe_elec_reseau,"Si CEET, nombre de Groupes Electrogènes sur réseau",xsd:int,int
+125,registre_elec_infra,Y a-t-il un registre et/ou une carte de vos branchements et infrastructures?,xsd:string,string
+126,registre_elec_infra_obention,"Si oui, peut on obtenir le registre?",xsd:string,string
+127,org_nom,Organisation de rattachement,xsd:string,string
+128,reception,Y a-t-il une réception?,xsd:string,string
+129,guichet_nbr,Nombre de guichets pour accueillir les clients,xsd:int,int
+130,personnel_nbr,Nombre total de personnel,xsd:int,int
+131,personnel_femme_nbr,Nombre de personnel femme,xsd:int,int
+132,personnel_homme_nbr,Nombre de personnel homme,xsd:int,int
+133,personnel_reception_nbr,Nombre de réceptionniste,xsd:int,int
+134,personnel_cadre_nbr,Nombre de personnel cadre,xsd:int,int
+135,personnel_inge_nbr,Nombre de personnel ingénieur,xsd:int,int
+136,personnel_techn_nbr,Nombre de personnel technicien,xsd:int,int
+137,personnel_admin_nbr,Nombre de personnel administratif,xsd:int,int
+138,personnel_comm_nbr,Nombre de personnel commercial,xsd:int,int
+139,personnel_postier_nbr,Nombre de livreurs,xsd:int,int
+140,personnel_stage_nbr,Nombre de personnel stagiaire,xsd:int,int
+141,eau_acces,Y a-t-il accès à l'eau dans l'étabissement ?,xsd:string,string
+142,eau_source,"Si oui, quelle source ?",xsd:string,string
+143,eau_pression,"Si oui, quelle pression ?",xsd:string,string
+144,eau_debit,"Combien de secondes pour remplir une bouteille de 1,5L?",xsd:string,string
+145,eau_qualite,"Si oui, temps d'accès à l'eau",xsd:string,string
+146,eau_acces_temps,"Si oui, qualité de l'eau ?",xsd:string,string
+147,lavage,Y a-t-il des dispositifs pour le lavage des mains ?,xsd:string,string
+148,lavage_type,"Si oui, type de dispositive de lavage de main",xsd:string,string
+149,elec_acces,Y a-t-il accès à l'électricité dans l'établissement ?,xsd:string,string
+150,elec_source,"Si oui, quelle source d'électricité ?",xsd:string,string
+151,elec_qualite,"Si oui, qualité d'accès ?",xsd:string,string
+152,elec_acces_temps,"Si oui, temps d'accès à l'électricité",xsd:string,string
+153,internet,Y a-t-il un réseau internet dédié?,xsd:string,string
+154,internet_type,"Si oui, type d'accès dédié ?",xsd:string,string
+155,internet_type_autre,Autre type d'accès internet dédié,xsd:string,string
+156,internet_type_fournisseur,"Si oui, fourni par qui?",xsd:string,string
+157,couverture,Recevez vous internet ?,xsd:string,string
+158,couverture_type,"Si oui, quel type ?",xsd:string,string
+159,couverture_type_autre,Autre type d'internet,xsd:string,string
+160,couverture_nom,"Si oui, quels réseaux sont disponibles ?",xsd:string,string
+161,ordinateur_portable_nbr,Nombre d'ordinateurs portables,xsd:int,int
+162,ordinateur_portable_fonctionnel_nbr,Nombre d'ordinateurs portables fonctionnels,xsd:int,int
+163,ordinateur_poste_nbr,Nombre d'ordinateurs fixes,xsd:int,int
+164,ordinateur_poste_fonctionnel_nbr,Nombre d'ordinateurs fixes fonctionnels,xsd:int,int
+165,equipement_specifique,"Autres équipements spécifiques (Imprimantes, Matériel dédié...)",xsd:string,string
+166,equipement_coffre,Y a-t-il un ou des coffre forts?,xsd:string,string
+167,toilette,Y a-t-il des toilettes et/ou douche?,xsd:string,string
+168,toilette_separation,"Si oui, sont elles séparées entre hommes et femmes?",xsd:string,string
+169,toilette_raccordage,"Si oui, quel raccordage ?",xsd:string,string
+170,toilette_raccordage_non,"Si non raccordé, vers où sont redirigées les selles?",xsd:string,string
+171,toilette_fosse,"Si une fosse, est elle vidangeable?",xsd:string,string
+172,toilette_type,Quels sont les sanitaires présents?,xsd:string,string
+173,wc_nbr,"Si WCs, combien ?",xsd:int,int
+174,wc_fonc_nbr,"Si WCs, combien sont fonctionnels ?",xsd:int,int
+175,latrine_nbr,"Si latrines à eau, combien ?",xsd:int,int
+176,latrine_fonc_nbr,"Si latrines à eau, combien sont fonctionnelles?",xsd:int,int
+177,latrine_seche_nbr,Si latrines sèches combien ?,xsd:int,int
+178,latrine_seche_fonc_nbr,"Si latrines sèches, combien fonctionnelles ?",xsd:int,int
+179,pissotiere_nbr,"Si pissotières, combien ?",xsd:int,int
+180,pissotiere_fonc_nbr,"Si pissotières, combien sont fonctionnelles?",xsd:int,int
+181,douche_nbr,"Si douches, combien ?",xsd:int,int
+182,douche_fonc_nbr,"Si douches, combien sont fonctionnelles?",xsd:int,int
+183,lampadaire,Y a-t-il des lampadaires dans l'établissement?,xsd:string,string
+184,lampadaire_nbr,"Si oui, combien ?",xsd:int,int
+185,lampadaire_solaire_nbr,"Si oui, combien de lampadaires solaires ?",xsd:int,int
+186,lampadaire_reseau_nbr,"Si oui, combien de lampadaires réseaux ?",xsd:int,int
+187,lampadaire_artisanaux_nbr,"Si oui, combien de lampadaires artisanaux ?",xsd:int,int
+188,batiment_nbr,Nombre de bâtiments,xsd:int,int
+189,camion_nbr,Nombre de camions,xsd:int,int
+190,vehicule_4_roue_nbr,Nombre de véhicules à 4 roues,xsd:int,int
+191,vehicule_3_roue_nbr,Nombre de véhicules à 3 roues,xsd:int,int
+192,vehicule_2_roue_nbr,Nombre de véhicules à 2 roues,xsd:int,int
+193,cloture,L'établissement est il cloturé?,xsd:string,string
+194,cloture_type,"Si oui, type de cloture",xsd:string,string
+195,cloture_materiau,"Si oui, matériau de clôture",xsd:string,string
+196,pb,Y a-t-il d'autres problèmes?,xsd:string,string
+197,solution_potentielle,Potentielles solutions,xsd:string,string
+198,commentaire,Commentaires,xsd:string,string
+199,personnel_guichet_nbr,Nombre d'employés de guichet,xsd:int,int
+200,personnel_fonct_nbr,Nombre de personnel fonctionnaire,xsd:int,int
+201,personnel_contract_nbr,Nombre de personnel contractuel,xsd:int,int
+202,date_collecte,Date de la collecte,xsd:string,string
+203,date_mise_a_jour_collecte,Date de la mise à jour,xsd:string,string
+204,geometry,Géométrie,gml:Point,Point

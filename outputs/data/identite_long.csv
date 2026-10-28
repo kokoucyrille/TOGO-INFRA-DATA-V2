@@ -1,0 +1,37 @@
+type,libelle,annee,valeur_brute,lacune_source,total_recalcule,ecart_total_vs_composantes,ligne
+cni,Cartes nationales d'identité,2014,153789.0,False,,,19.0
+cni,Cartes nationales d'identité,2015,164411.0,False,,,20.0
+cni,Cartes nationales d'identité,2016,177418.0,False,,,21.0
+cni,Cartes nationales d'identité,2017,187473.0,False,,,22.0
+cni,Cartes nationales d'identité,2018,203357.0,False,,,23.0
+cni,Cartes nationales d'identité,2019,207169.0,False,,,24.0
+cni,Cartes nationales d'identité,2020,179304.0,False,,,25.0
+cni,Cartes nationales d'identité,2021,,True,,,
+cni,Cartes nationales d'identité,2022,140295.0,False,,,26.0
+passeports,Passeports,2014,40756.0,False,,,10.0
+passeports,Passeports,2015,44924.0,False,,,11.0
+passeports,Passeports,2016,47388.0,False,,,12.0
+passeports,Passeports,2017,47825.0,False,,,13.0
+passeports,Passeports,2018,51246.0,False,,,14.0
+passeports,Passeports,2019,68079.0,False,,,15.0
+passeports,Passeports,2020,51767.0,False,,,16.0
+passeports,Passeports,2021,66938.0,False,,,17.0
+passeports,Passeports,2022,74685.0,False,,,18.0
+cartes_pro,Cartes professionnelles,2014,4177.0,False,,,27.0
+cartes_pro,Cartes professionnelles,2015,4696.0,False,,,28.0
+cartes_pro,Cartes professionnelles,2016,5820.0,False,,,29.0
+cartes_pro,Cartes professionnelles,2017,4291.0,False,,,30.0
+cartes_pro,Cartes professionnelles,2018,4303.0,False,,,31.0
+cartes_pro,Cartes professionnelles,2019,6037.0,False,,,32.0
+cartes_pro,Cartes professionnelles,2020,5141.0,False,,,33.0
+cartes_pro,Cartes professionnelles,2021,,True,,,
+cartes_pro,Cartes professionnelles,2022,4351.0,False,,,34.0
+total,Total,2014,198722.0,False,198722.0,0.0,2.0
+total,Total,2015,214031.0,False,214031.0,0.0,3.0
+total,Total,2016,230626.0,False,230626.0,0.0,4.0
+total,Total,2017,239589.0,False,239589.0,0.0,5.0
+total,Total,2018,258906.0,False,258906.0,0.0,6.0
+total,Total,2019,281285.0,False,281285.0,0.0,7.0
+total,Total,2020,236212.0,False,236212.0,0.0,8.0
+total,Total,2021,,True,,,
+total,Total,2022,219331.0,False,219331.0,0.0,9.0

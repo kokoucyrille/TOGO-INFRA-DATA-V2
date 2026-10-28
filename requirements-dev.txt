@@ -1,0 +1,8 @@
+# Outils de développement : tests, notebook, régénération des polices
+-r requirements.txt
+pytest==9.1.1
+nbformat==5.11.1
+nbconvert==7.17.2
+ipykernel==7.4.0
+fonttools==4.62.1
+brotli==1.2.0

@@ -1,0 +1,217 @@
+indicateur_code,indicateur,serie,sexe,annee,valeur_brute,absent_du_fichier,anomalie,ratio_mediane_autres_annees,hf_improbable,hors_analyse_serie_b,valide_pour_tendance,ligne
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Femme,2014,1783.0,False,,,False,False,True,50.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Femme,2015,6038.0,False,,,False,False,True,51.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Femme,2016,8413.0,False,,,False,False,True,52.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Femme,2017,4362.0,False,,,False,False,True,53.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Femme,2018,3763.0,False,,,False,False,True,54.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Femme,2019,3095.0,False,,,False,False,True,55.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Homme,2014,2277.0,False,,,False,False,True,44.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Homme,2015,5808.0,False,,,False,False,True,45.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Homme,2016,8137.0,False,,,False,False,True,46.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Homme,2017,4567.0,False,,,False,False,True,47.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Homme,2018,4067.0,False,,,False,False,True,48.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Homme,2019,3429.0,False,,,False,False,True,49.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Total,2014,4060.0,False,,,False,False,True,38.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Total,2015,11846.0,False,,,False,False,True,39.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Total,2016,16550.0,False,,,False,False,True,40.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Total,2017,8929.0,False,,,False,False,True,41.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Total,2018,7830.0,False,,,False,False,True,42.0
+actes_45j_non_retires,Actes de naissance (45 j) non retirés,A,Total,2019,6524.0,False,,,False,False,True,43.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Femme,2014,58931.0,False,,,False,False,True,14.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Femme,2015,83682.0,False,,,False,False,True,15.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Femme,2016,67306.0,False,,,False,False,True,16.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Femme,2017,68273.0,False,,,False,False,True,17.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Femme,2018,66779.0,False,,,False,False,True,18.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Femme,2019,51699.0,False,,,False,False,True,19.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Homme,2014,59786.0,False,,,False,False,True,8.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Homme,2015,86584.0,False,,,False,False,True,9.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Homme,2016,70919.0,False,,,False,False,True,10.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Homme,2017,72453.0,False,,,False,False,True,11.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Homme,2018,67704.0,False,,,False,False,True,12.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Homme,2019,52194.0,False,,,False,False,True,13.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Total,2014,118717.0,False,,,False,False,True,2.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Total,2015,170266.0,False,,,False,False,True,3.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Total,2016,138225.0,False,,,False,False,True,4.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Total,2017,140726.0,False,,,False,False,True,5.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Total,2018,134483.0,False,,,False,False,True,6.0
+enfants_enreg_45j,Enfants enregistrés dans les 45 jours,A,Total,2019,103893.0,False,,,False,False,True,7.0
+jugements_suppletifs,Jugements supplétifs,A,Femme,2014,6424.0,False,,,False,False,True,68.0
+jugements_suppletifs,Jugements supplétifs,A,Femme,2015,9853.0,False,,,False,False,True,69.0
+jugements_suppletifs,Jugements supplétifs,A,Femme,2016,15310.0,False,,,False,False,True,70.0
+jugements_suppletifs,Jugements supplétifs,A,Femme,2017,18814.0,False,doublon_inter_series,,False,False,False,71.0
+jugements_suppletifs,Jugements supplétifs,A,Femme,2018,2371.0,False,rupture,0.2753293297171639,False,False,True,72.0
+jugements_suppletifs,Jugements supplétifs,A,Femme,2019,2598.0,False,rupture,0.32821580782642384,False,False,True,73.0
+jugements_suppletifs,Jugements supplétifs,A,Homme,2014,7413.0,False,,,False,False,True,62.0
+jugements_suppletifs,Jugements supplétifs,A,Homme,2015,10795.0,False,,,False,False,True,63.0
+jugements_suppletifs,Jugements supplétifs,A,Homme,2016,14759.0,False,,,False,False,True,64.0
+jugements_suppletifs,Jugements supplétifs,A,Homme,2017,29399.0,False,doublon_inter_series,,False,False,False,65.0
+jugements_suppletifs,Jugements supplétifs,A,Homme,2018,3314.0,False,rupture,0.2753293297171639,False,False,True,66.0
+jugements_suppletifs,Jugements supplétifs,A,Homme,2019,4179.0,False,rupture,0.32821580782642384,False,False,True,67.0
+jugements_suppletifs,Jugements supplétifs,A,Total,2014,13837.0,False,,,False,False,True,56.0
+jugements_suppletifs,Jugements supplétifs,A,Total,2015,20648.0,False,,,False,False,True,57.0
+jugements_suppletifs,Jugements supplétifs,A,Total,2016,30069.0,False,,,False,False,True,58.0
+jugements_suppletifs,Jugements supplétifs,A,Total,2017,48213.0,False,doublon_inter_series,,False,False,False,59.0
+jugements_suppletifs,Jugements supplétifs,A,Total,2018,5685.0,False,rupture,0.2753293297171639,False,False,True,60.0
+jugements_suppletifs,Jugements supplétifs,A,Total,2019,6777.0,False,rupture,0.32821580782642384,False,False,True,61.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Femme,2014,9397.0,False,,,False,False,True,32.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Femme,2015,14086.0,False,,,False,False,True,33.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Femme,2016,15255.0,False,,,False,False,True,34.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Femme,2017,18814.0,False,doublon_inter_series,,False,False,False,35.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Femme,2018,6545.0,False,,,False,False,True,36.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Femme,2019,4989.0,False,,,False,False,True,37.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Homme,2014,16829.0,False,,,False,False,True,26.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Homme,2015,21921.0,False,,,False,False,True,27.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Homme,2016,24884.0,False,,,False,False,True,28.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Homme,2017,29399.0,False,doublon_inter_series,,False,False,False,29.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Homme,2018,10387.0,False,,,False,False,True,30.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Homme,2019,7476.0,False,,,False,False,True,31.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Total,2014,26226.0,False,,,False,False,True,20.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Total,2015,36007.0,False,,,False,False,True,21.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Total,2016,40139.0,False,,,False,False,True,22.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Total,2017,48213.0,False,doublon_inter_series,,False,False,False,23.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Total,2018,16932.0,False,,,False,False,True,24.0
+jugements_transcrits,Jugements supplétifs transcrits,A,Total,2019,12465.0,False,,,False,False,True,25.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Femme,2014,,True,,,False,False,False,
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Femme,2015,180.0,False,aberrante,0.19564032697547684,False,False,False,132.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Femme,2016,890.0,False,,,False,False,True,133.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Femme,2017,,True,,,False,False,False,
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Femme,2018,886.0,False,,,False,False,True,134.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Femme,2019,644.0,False,,,False,False,True,135.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Homme,2014,,True,,,False,False,False,
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Homme,2015,179.0,False,aberrante,0.19564032697547684,False,False,False,128.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Homme,2016,945.0,False,,,False,False,True,129.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Homme,2017,,True,,,False,False,False,
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Homme,2018,1069.0,False,,,False,False,True,130.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Homme,2019,825.0,False,,,False,False,True,131.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Total,2014,1607.0,False,,,False,False,True,122.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Total,2015,359.0,False,aberrante,0.19564032697547684,False,False,False,123.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Total,2016,1835.0,False,,,False,False,True,124.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Total,2017,1852.0,False,,,False,False,True,125.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Total,2018,1955.0,False,,,False,False,True,126.0
+mort_nes_fs,Mort-nés enregistrés en formation sanitaire,A,Total,2019,1469.0,False,,,False,False,True,127.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Femme,2014,,True,,,False,False,False,
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Femme,2015,209150.0,False,aberrante,2086.714285714286,False,False,False,146.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Femme,2016,124.0,False,,,False,False,True,147.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Femme,2017,,True,,,False,False,False,
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Femme,2018,75.0,False,,,False,False,True,148.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Femme,2019,42.0,False,,,False,False,True,149.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Homme,2014,,True,,,False,False,False,
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Homme,2015,229060.0,False,aberrante,2086.714285714286,False,False,False,142.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Homme,2016,120.0,False,,,False,False,True,143.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Homme,2017,,True,,,False,False,False,
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Homme,2018,73.0,False,,,False,False,True,144.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Homme,2019,51.0,False,,,False,False,True,145.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Total,2014,333.0,False,,,False,False,True,136.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Total,2015,438210.0,False,aberrante,2086.714285714286,False,False,False,137.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Total,2016,244.0,False,,,False,False,True,138.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Total,2017,210.0,False,,,False,False,True,139.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Total,2018,148.0,False,,,False,False,True,140.0
+mort_nes_hors_fs,Mort-nés enregistrés hors formation sanitaire,A,Total,2019,93.0,False,,,False,False,True,141.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Femme,2014,,True,,,False,False,False,
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Femme,2015,56670.0,False,,,False,False,True,90.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Femme,2016,59028.0,False,,,False,False,True,91.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Femme,2017,,True,,,False,False,False,
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Femme,2018,45653.0,False,,,False,False,True,92.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Femme,2019,29454.0,False,,,False,False,True,93.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Homme,2014,,True,,,False,False,False,
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Homme,2015,53362.0,False,,,False,False,True,86.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Homme,2016,56509.0,False,,,False,False,True,87.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Homme,2017,,True,,,False,False,False,
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Homme,2018,55119.0,False,,,False,False,True,88.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Homme,2019,32470.0,False,,,False,False,True,89.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Total,2014,89209.0,False,,,False,False,True,80.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Total,2015,110032.0,False,,,False,False,True,81.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Total,2016,115537.0,False,,,False,False,True,82.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Total,2017,75600.0,False,,,False,False,True,83.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Total,2018,100772.0,False,,,False,False,True,84.0
+naissances_enreg_fs,Naissances enregistrées en formation sanitaire,A,Total,2019,61924.0,False,,,False,False,True,85.0
+naissances_enreg_total,Naissances enregistrées (total),A,Femme,2014,,True,,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Femme,2015,61556.0,False,,,False,False,True,79.0
+naissances_enreg_total,Naissances enregistrées (total),A,Femme,2016,,True,zero_suspect,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Femme,2017,,True,,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Femme,2018,,True,zero_suspect,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Femme,2019,,True,zero_suspect,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Homme,2014,,True,,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Homme,2015,59042.0,False,,,False,False,True,78.0
+naissances_enreg_total,Naissances enregistrées (total),A,Homme,2016,,True,zero_suspect,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Homme,2017,,True,,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Homme,2018,,True,zero_suspect,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Homme,2019,,True,zero_suspect,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Total,2014,,True,,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Total,2015,120598.0,False,,,False,False,True,74.0
+naissances_enreg_total,Naissances enregistrées (total),A,Total,2016,0.0,False,zero_suspect,,False,False,False,75.0
+naissances_enreg_total,Naissances enregistrées (total),A,Total,2017,,True,,,False,False,False,
+naissances_enreg_total,Naissances enregistrées (total),A,Total,2018,0.0,False,zero_suspect,,False,False,False,76.0
+naissances_enreg_total,Naissances enregistrées (total),A,Total,2019,0.0,False,zero_suspect,,False,False,False,77.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Femme,2014,,True,,,False,False,False,
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Femme,2015,5642.0,False,aberrante,0.139900277564964,False,False,False,104.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Femme,2016,53162.0,False,,,False,False,True,105.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Femme,2017,,True,,,False,False,False,
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Femme,2018,41466.0,False,,,False,False,True,106.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Femme,2019,26726.0,False,,,False,False,True,107.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Homme,2014,,True,,,False,False,False,
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Homme,2015,5497.0,False,aberrante,0.139900277564964,False,False,False,100.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Homme,2016,50731.0,False,,,False,False,True,101.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Homme,2017,,True,,,False,False,False,
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Homme,2018,43988.0,False,,,False,False,True,102.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Homme,2019,29614.0,False,,,False,False,True,103.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Total,2014,79621.0,False,,,False,False,True,94.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Total,2015,11139.0,False,aberrante,0.139900277564964,False,False,False,95.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Total,2016,103893.0,False,,,False,False,True,96.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Total,2017,73748.0,False,,,False,False,True,97.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Total,2018,85454.0,False,,,False,False,True,98.0
+naissances_vivantes_fs,Naissances vivantes enregistrées en FS,A,Total,2019,56340.0,False,,,False,False,True,99.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Femme,2014,,True,,,False,False,False,
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Femme,2015,882.0,False,rupture,0.21486249268578117,False,False,True,118.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Femme,2016,4852.0,False,,,False,False,True,119.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Femme,2017,,True,,,False,False,False,
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Femme,2018,3226.0,False,,,True,False,False,120.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Femme,2019,2042.0,False,,,False,False,True,121.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Homme,2014,,True,,,False,False,False,
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Homme,2015,954.0,False,rupture,0.21486249268578117,False,False,True,114.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Homme,2016,4713.0,False,,,False,False,True,115.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Homme,2017,,True,,,False,False,False,
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Homme,2018,9989.0,False,,,True,False,False,116.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Homme,2019,1980.0,False,,,False,False,True,117.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Total,2014,7648.0,False,,,False,False,True,108.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Total,2015,1836.0,False,rupture,0.21486249268578117,False,False,True,109.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Total,2016,9565.0,False,,,False,False,True,110.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Total,2017,8545.0,False,,,False,False,True,111.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Total,2018,13215.0,False,,,False,False,True,112.0
+naissances_vivantes_hors_fs,Naissances vivantes enregistrées hors FS,A,Total,2019,4022.0,False,,,False,False,True,113.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Femme,2014,170200.0,False,,,False,False,True,162.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Femme,2015,942.0,False,aberrante,0.006527783932290513,False,False,False,163.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Femme,2016,185014.0,False,,,False,False,True,164.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Femme,2017,172675.0,False,,,False,False,True,165.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Femme,2018,149594.0,False,,,False,False,True,166.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Femme,2019,95117.0,False,,,True,False,False,167.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Homme,2014,188607.0,False,,,False,False,True,156.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Homme,2015,1415.0,False,aberrante,0.006527783932290513,False,False,False,157.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Homme,2016,209313.0,False,,,False,False,True,158.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Homme,2017,188397.0,False,,,False,False,True,159.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Homme,2018,163752.0,False,,,False,False,True,160.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Homme,2019,316193.0,False,,,True,False,False,161.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Total,2014,358807.0,False,,,False,False,True,150.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Total,2015,2357.0,False,aberrante,0.006527783932290513,False,False,False,151.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Total,2016,394327.0,False,,,False,False,True,152.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Total,2017,361072.0,False,,,False,False,True,153.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Total,2018,313346.0,False,,,False,False,True,154.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,A,Total,2019,411310.0,False,,,False,False,True,155.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Femme,2014,470.0,False,,,False,True,False,180.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Femme,2015,0.0,False,zero_suspect,,False,True,False,181.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Femme,2016,964.0,False,,,False,True,False,182.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Femme,2017,1103.0,False,,,False,True,False,183.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Femme,2018,1270.0,False,,,False,True,False,184.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Femme,2019,1435.0,False,,,False,True,False,185.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Homme,2014,571.0,False,,,False,True,False,174.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Homme,2015,0.0,False,zero_suspect,,False,True,False,175.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Homme,2016,1693.0,False,,,False,True,False,176.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Homme,2017,1400.0,False,,,False,True,False,177.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Homme,2018,1483.0,False,,,False,True,False,178.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Homme,2019,1784.0,False,,,False,True,False,179.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Total,2014,1041.0,False,,,False,True,False,168.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Total,2015,0.0,False,zero_suspect,,False,True,False,169.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Total,2016,2657.0,False,,,False,True,False,170.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Total,2017,2503.0,False,,,False,True,False,171.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Total,2018,2753.0,False,,,False,True,False,172.0
+scolarises_sans_acte,Enfants scolarisés sans acte de naissance,B,Total,2019,3219.0,False,,,False,True,False,173.0

@@ -1,0 +1,37 @@
+{
+  "date_construction": "2026-10-26",
+  "seuils_classes": {
+    "Q1": 36.05365221988669,
+    "Médiane": 47.40179605937149,
+    "Q3": 66.29650265535759
+  },
+  "seuils_profils": {
+    "mediane_population": 164460.0,
+    "mediane_taux": 29.93,
+    "mediane_agences_100k": 0.8320852055250457,
+    "tcam_national": 4.785912147265403
+  },
+  "taux_national": {
+    "2018": 45.09,
+    "2019": null,
+    "2020": null,
+    "2021": 57.82
+  },
+  "correlation_verdict": "Aucune paire de composantes ne dépasse |ρ| = 0,8 : pas de risque de double comptage détecté.",
+  "correlation_paires": [],
+  "n_configurations": 506,
+  "seuil_robuste": 80.0,
+  "scenario_defaut": "C · Équilibre",
+  "geo": {
+    "cantons_2022": 375,
+    "cantons_positionnes": 325,
+    "part_cantons_pct": 86.7,
+    "part_population_pct": 87.0
+  },
+  "n_tests": 30,
+  "tests_par_statut": {
+    "PASS": 19,
+    "WARNING": 11
+  },
+  "population_sans_acces_proxy": 3683089.0404000003
+}

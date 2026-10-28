@@ -1,0 +1,68 @@
+section,affirmation,attendu,obtenu,statut,note
+§2.1,"759 lignes, 2022, sexe Total",759,759,CONFIRMÉ,
+§2.1,Total Togo,8095498,8095498,CONFIRMÉ,
+§2.1,"6 régions, somme = national",6,6,CONFIRMÉ,
+§2.1,"DAGL = 2 188 376 (27,0 %)","2188376 / 27,0",2188376 / 27.0,CONFIRMÉ,
+§2.1,39 préfectures,39,39,CONFIRMÉ,
+§2.1,Golfe 1 305 681 / Agoé-Nyivé 882 695,1305681 / 882695,1305681 / 882695,CONFIRMÉ,
+§2.1,121 lignes finissant par un chiffre,121,121,CONFIRMÉ,
+§2.1,117 communes (116 lignes + DANYI 1+2 = 2 communes),117,117,CONFIRMÉ,
+§2.1,"5 quartiers finissant par un chiffre (KELEGOUGAN1, ATIEGOU1, KELEGOUGAN 2, ATIEGOU 2, KELEGOUGAN 3)",5,5,CONFIRMÉ,
+§2.1,région = somme des préfectures (écarts),0,0,CONFIRMÉ,
+§2.1,préfecture = somme des communes (écarts),0,0,CONFIRMÉ,
+§2.1,"commune = somme de ses feuilles (par identifiant positionnel, 116 communes)",0,0,CONFIRMÉ,
+§2.1,somme de toutes les feuilles = total national (pas de double comptage),8095498,8095498,CONFIRMÉ,Les 6 communes à canton unique (ex. OGOU 3 = GLEI) ne posent problème que si on somme commune + feuille.
+§2.1,AMOU 2 et EST-MONO 1 en double (2e = Amou 3 / Est-Mono 3),2 libellés,2 libellés,CONFIRMÉ,
+§2.1,[NOUVEAU] décompte des feuilles,—,375 cantons hors DAGL + 222 quartiers DAGL,INFO,
+§2.1,"écart max/min communal 35,4× (Golfe 1 / Assoli 2)",35.4,35.4,CONFIRMÉ,
+§2.1,médiane communale ≈ 52 300,52300,52302.5,CONFIRMÉ,
+§2.1,"Top 10 communes ≈ 28,7 %",28.7,28.7,CONFIRMÉ,
+§2.2,"555 lignes, total 6 191 155",555 / 6191155,555 / 6191155,CONFIRMÉ,
+§2.2,somme des 6 blocs = national,6191155,6191155,CONFIRMÉ,
+§2.2,Lomé 839 566 ; Maritime 1 760 389,839566 / 1760389,839566 / 1760389,CONFIRMÉ,
+§2.2,36 préfectures hors Lomé (+ Lomé = 37 unités),36,36,CONFIRMÉ,
+§2.2,Golfe 2010 = 731 942 ; Grand Lomé = 1 571 508,731942 / 1571508,731942 / 1571508,CONFIRMÉ,
+§2.2,Kpendjal 155 091 (= somme des cantons) ; Oti 190 543,155091 / 190543,155091 / 190543,CONFIRMÉ,
+§2.2,région = somme des préfectures (2010),0,0,CONFIRMÉ,
+§2.2,7 libellés dupliqués dans 2010,7,7,CONFIRMÉ,
+§2.2,[NOUVEAU] reconstitution Agoé-Nyivé par préfixes `AGOENYIVE =` + `VAKPOSSITO =` = flag MEDIUM,MEDIUM,"2010=285 404 → 2022=882 695 (×3.1, TCAM 9.9 %/an) vs Grand Lomé 2.8 %/an",ÉCART,"2010 : 39 localités préfixées couvrant 285 404 hab. ; 2022 : 112 quartiers sur 6 communes, 882 695 hab. Périmètres non équivalents → proposé : LOW pour Golfe et Agoé-Nyivé séparés, HIGH pour le Grand Lomé fusionné."
+§2.3,"282 lignes, 2018–2021, 2 indicateurs",282 / 2018-2021 / 2,282 / 2018-2021 / 2,CONFIRMÉ,
+§2.3,Abonnés BT : 2018–2020 seulement,2018–2020,"2018–2020 pour 40 unités ; 2021 pour seulement 3 d'entre elles (AKEBOU, TANDJOARE, KPENDJAL + KPENDJAL OUEST)",ÉCART,Écart mineur sans impact sur l'IPT (BT non utilisé). Valeurs 2021 = 364 / 427 / 426.
+§2.3,33 unités d'analyse = 27 isolées + 6 groupes,33 = 27 + 6,33 = 27 + 6,CONFIRMÉ,
+§2.3,LOME ≡ LOME COMMUNE + GOLFE (doublon strict),True,True,CONFIRMÉ,
+§2.3,"taux > 100 % : Agoé-Nyivé 2019 (106,52) ; Zio 2021 (106,84)",2 valeurs,"2 : [['AGOENYIVE', 2019, 106.52], ['ZIO', 2021, 106.84]]",CONFIRMÉ,
+§2.3,BLITTA 2018 absent,True,True,CONFIRMÉ,
+§2.3,"National 45,09 → 57,82",45.09 → 57.82,45.09 → 57.82,CONFIRMÉ,
+§2.3,"sauts Agoé-Nyivé 65,96→106,52 ; Yoto 41,29→62,40 ; Maritime 44,86→64,00 ; Kpélé 10,91→9,31",oui,oui,CONFIRMÉ,
+§2.3,"33 unités couvrent les 39 préfectures, sans trou ni chevauchement",39 / 0 chevauchement,39 / 0,CONFIRMÉ,"12 préfectures dans des groupes, 27 hors groupe."
+§2.3,[NOUVEAU] somme des populations des 33 unités = total national,8095498,8095498,CONFIRMÉ,
+§2.3,[NOUVEAU] cohérence taux régionaux 2021 vs moyenne pondérée des unités (pop. 2022),écart faible,"SAVANES: 23.3 vs 22.39 (+0.9 pp); KARA: 36.5 vs 36.65 (-0.2 pp); CENTRALE: 37.2 vs 35.95 (+1.3 pp); PLATEAUX: 28.1 vs 27.64 (+0.5 pp); MARITIME: 85.7 vs 73.89 (+11.9 pp) ; national 54.5 vs 57,82",ÉCART,"Maritime +11,9 pp et national −3,3 pp non reproductibles → dénominateur/périmètre des taux inconnu (PROXY confirmé). Aucune explication retenue."
+§2.4,"CEET 34 agences, TdE 59 agences, 14 colonnes",34 / 59 / 14,34 / 59 / 14,CONFIRMÉ,
+§2.4,métadonnées : 204 champs (CEET et TdE identiques),204,204,CONFIRMÉ,
+§2.4,"Statuts CEET : Utilisé 27, N/a 4, Nsp 3",27/4/3,27/4/3,CONFIRMÉ,
+§2.4,"Statuts TdE : Utilisé 47, Nsp 7, En constr. 2, Inachevé 2, N/a 1",47/7/2/2/1,47/7/2/2/1,CONFIRMÉ,Valeurs brutes entre accolades `{Utilise}` et sans accents ; à nettoyer à l'étape 1.
+§2.4,[NOUVEAU] variantes de `Nsp` dans etab_creation_date,1 forme,"[""'Nsp'"", ""'Nsp '""] → [32, 11]",ÉCART,`Nsp` et `Nsp ` (espace final) : strip obligatoire.
+§2.4,Date de création aberrante 1076 (CEET),1 ligne,1 : ['Agence CEET Kara'],CONFIRMÉ,
+§2.4,Catégories : 5 (3 publiques-types + Admin/Technique),5,5,CONFIRMÉ,"{'Agence CEET': 32, 'Agence CEET - Admin': 1, 'Agence CEET - Technique': 1, 'Agence TdE': 57, 'Agence TdE - Admin': 2}"
+§2.4,"coordonnées valides, dans la boîte du Togo, sans doublon",0 / 0 / 0,0 / 0 / 0,CONFIRMÉ,
+§2.4,jointure préfectures : 24 CEET / 33 TdE toutes appariées au référentiel,24 / 33 / 100 %,24 / 33 / 100%,CONFIRMÉ,
+§2.4,[NOUVEAU] jointure communes (noms normalisés + corrections documentées),100 %,100%,CONFIRMÉ,BINAH2→BINAH 2 ; AMOU 2(2e)→AMOU 3 ; EST-MONO 1(2e)→EST-MONO 3 ; DANYI 1+2 → Danyi 1 et Danyi 2 non séparables en population.
+§2.4,15 préfectures sans CEET / 6 sans TdE / 4 sans aucun,15 / 6 / 4,déf. A (toute ligne) : 15 / 6 / 4,CONFIRMÉ,
+§2.4,[NOUVEAU] mêmes comptes avec 'agence OUVERTE' (public + Utilisé) = définition de c6 §7,15 / 6 / 4,18 / 9 / 7,ÉCART,"Deux définitions de « sans agence » coexistent dans le prompt. Sans agence ouverte ET sans aucune : ['AKEBOU', 'BAS MONO', 'DANYI', 'KPELE', 'KPENDJAL OUEST', 'LACS', 'YOTO']"
+§2.4,versions 2026 vs 2024 : même contenu ?,à comparer,CEET identique hors FID : True ; TdE : True,INFO,"Seul l'identifiant FID diffère (régénéré à l'export). Utiliser les CSV 2024 ; les JSON (GeoJSON, points seuls) et XLSX 2026 sont redondants."
+§2.5,"184 lignes, 11 indicateurs, sexes Tota/Homme/Femme, 2014–2019, pas de territoire",184 / 11,184 / 11,CONFIRMÉ,
+§2.5,[NOUVEAU] un libellé brut porte DEUX séries (« enfants scolarisés ne disposant pas d'acte de naissance »),11 séries,12 séries : A lignes 150–167 (313 346–411 310) ; B lignes 168–185 (0–3 219),ÉCART,Ne jamais pivoter/moyenner sans `rang` (une moyenne naïve fusionne A et B). Sens de B non documenté → à clarifier ; ne pas agréger.
+§2.5,enfants enregistrés < 45 j : 118 717 → 170 266 → 138 225 → 140 726 → 134 483 → 103 893,6 valeurs,identiques,CONFIRMÉ,
+§2.5,2015 morts-nés hors FS = 438 210 (vs 93–333),438210 ; 93–333,438210 ; 93–333,CONFIRMÉ,
+§2.5,2015 scolarisés sans acte = 2 357 (série A ; vs 313 000–411 000),2357,2357 ; autres années 313346–411310,CONFIRMÉ,
+§2.5,2015 naissances vivantes en FS = 11 139 (vs 56 000–104 000),11139,11139 ; autres 56340–103893,CONFIRMÉ,
+§2.5,"Total « naissances enregistrées » = 0 en 2016, 2018, 2019",0 / 0 / 0,0.0 / 0.0 / 0.0,CONFIRMÉ,Seule 2015 est renseignée (120598) ; 2014 et 2017 absentes.
+§2.5,2019 scolarisés sans acte : Homme 316 193 vs Femme 95 117 (série A),316193 / 95117,316193 / 95117,CONFIRMÉ,
+§2.5,2017 jugements supplétifs = transcrits = 48 213,48213,48213 = 48213,CONFIRMÉ,
+§2.5,Hommes + Femmes = Total,0,0,CONFIRMÉ,57 couples série×année testés.
+§2.5,détail par sexe manquant surtout en 2014 et 2017,"2014, 2017","{2014: 5, 2016: 1, 2017: 5, 2018: 1, 2019: 1}",CONFIRMÉ,
+§2.5,Aucun dénominateur de naissances attendues → taux d'enregistrement impossible,True,True,CONFIRMÉ,Aucune colonne de naissances attendues/estimées dans les 5 jeux.
+§2.6,"33 lignes, 4 types, 2014–2022",33 / 4,33 / 4,CONFIRMÉ,
+§2.6,"2021 manquant pour CNI, cartes pro, TOTAL ; passeports 2021 = 66 938",oui,"manquants 2021 : ['Cartes Nationales d’identité', 'Cartes professionnelles', 'TOTAL'] ; passeports 66938",CONFIRMÉ,
+§2.6,TOTAL = somme des composantes là où tout est présent,8 années,8/8,CONFIRMÉ,Vérifié sur les 8 années disponibles (le prompt n'en citait que 2).
+§2.6,"Pic 2019 (281 285), « creux 2020 » (236 212), 2022 : 219 331",281285 / 236212 / 219331,2019=281285 / 2020=236212 / 2022=219331,NUANCE,2022 est plus bas que 2020. Minimum de la série : 2014 (198722). CNI 2022 = 140295 (−32 % vs 2019) ; passeports 2022 = 74685 (+10 %).

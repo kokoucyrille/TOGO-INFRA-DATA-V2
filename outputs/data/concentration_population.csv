@@ -1,0 +1,17 @@
+niveau,indicateur,valeur,unite
+Préfectures (39),Top 5,41.77975215360439,% de la population nationale
+Préfectures (39),Top 10,57.13671969284657,% de la population nationale
+Préfectures (39),Top 20,77.59601694670297,% de la population nationale
+Préfectures (39),Gini,0.42807448072547283,indice 0–1
+Communes (116 lignes),Top 5,17.857493140014363,% de la population nationale
+Communes (116 lignes),Top 10,28.712007587426985,% de la population nationale
+Communes (116 lignes),Top 20,43.81773672231159,% de la population nationale
+Communes (116 lignes),Gini,0.3968647290987726,indice 0–1
+Cantons hors Grand Lomé,Top 5,9.590778724394045,% de la population nationale
+Cantons hors Grand Lomé,Top 10,15.426530889323093,% de la population nationale
+Cantons hors Grand Lomé,Top 20,24.254179954299236,% de la population nationale
+Cantons hors Grand Lomé,Gini,0.4642980763446791,indice 0–1
+Quartiers du Grand Lomé,Top 5,11.79079829060454,% de la population nationale
+Quartiers du Grand Lomé,Top 10,18.571397237037875,% de la population nationale
+Quartiers du Grand Lomé,Top 20,29.389190888585876,% de la population nationale
+Quartiers du Grand Lomé,Gini,0.439760413720099,indice 0–1

@@ -1,0 +1,7 @@
+composante,c1_deficit_acces,c2_pop_sans_acces,c3_croissance,c4_stagnation_acces,c5_deficit_equipement,c6_absence_service
+c1_deficit_acces,1.0,0.459,-0.118,0.646,-0.007,0.404
+c2_pop_sans_acces,0.459,1.0,0.319,-0.082,0.108,0.32
+c3_croissance,-0.118,0.319,1.0,-0.116,0.097,-0.041
+c4_stagnation_acces,0.646,-0.082,-0.116,1.0,0.153,0.29
+c5_deficit_equipement,-0.007,0.108,0.097,0.153,1.0,0.754
+c6_absence_service,0.404,0.32,-0.041,0.29,0.754,1.0

@@ -1,0 +1,12 @@
+fichier,fichier_reel,lignes,colonnes,annees,pct_vides,lignes_dupliquees
+pop2022,observationdata-kwwolwb.csv,759,6,2022–2022,0.0,0
+pop2010,observationdata-sapxctg.csv,555,4,2010–2010,25.0,0
+elec,observationdata-puncgpd.csv,282,6,2018–2021,0.0,0
+etat_civil,observationdata-vrsicxf.csv,184,5,2014–2019,0.0,0
+identite,observationdata-fsemhj.csv,33,5,2014–2022,0.0,0
+ceet_2024,file-agences-ceet-23-12-2024-11-06-42.csv,34,14,,0.0,0
+tde_2024,file-agences-togolaise-des-eaux-tde-19-12-2024-17-48-23.csv,59,14,,0.0,0
+meta_ceet,agences-ceet.csv,204,5,,0.59,0
+meta_tde,agences-togolaise-des-eaux-tde-.csv,204,5,,0.59,0
+ceet_2026,file-Agences - CEET-19-10-2026 15_32_58.csv,34,14,,0.0,0
+tde_2026,file-Agences - Togolaise des Eaux (TdE)-19-10-2026 15_33_58.csv,59,14,,0.0,0
